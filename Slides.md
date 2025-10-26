@@ -31,7 +31,7 @@ Projet HORAE
 ---
 # Vulgata Clementina
 https://github.com/Svetlana-Yatsyk/JdE_RMBLF_texto
-![](img/01.download.gif)
+![](data/img/01.download.gif)
 
 ---
 # Voyant Tools
