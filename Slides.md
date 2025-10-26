@@ -1,5 +1,4 @@
 
----
 # Introduction
 
 Svetlana Yatsyk, PhD
