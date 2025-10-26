@@ -86,21 +86,26 @@ La lemmatisation est un processus linguistique qui consiste à **ramener un mot 
 
 # Quelques outils en ligne
 <br>
+
 ## UDPipe
+
 https://lindat.mff.cuni.cz/services/udpipe/
 
 <br>
+
 ## Deucalion
 https://dh.chartes.psl.eu/deucalion/latin
 
 ---
 # Qu’est-ce qu’un corpus ?
 <br>
+
 Un corpus est un ensemble structuré de textes collectés selon des critères précis, pour servir de base à des études linguistiques, lexicographiques ou pour le traitement automatique des langues.
 
 ---
 # Critères de constitution
 <br>
+
 - *Représentativité* : le corpus doit refléter fidèlement l’usage du domaine spécifique qu’il prétend représenter;
 - *Annotation* : selon les objectifs de recherche, le corpus peut être annoté pour inclure des informations supplémentaires (catégories grammaticales, structures syntaxiques, etc);
 - *Homogénéité et consistance interne* : les éléments du corpus doivent suivre les mêmes principes d’annotation, et donc être enrichis de la même densité d’information;
@@ -109,6 +114,7 @@ Un corpus est un ensemble structuré de textes collectés selon des critères pr
 ---
 # Pour aller plus loin
 <br>
+
 - [Introduction to Voyant Tools for Text Analysis](https://youtu.be/4jCGLmbLFT0) (en anglais) ;
 - [Détecter la réutilisation de texte avec Passim](https://programminghistorian.org/fr/lecons/detecter-la-reutilisation-de-texte-avec-passim) ;
 - Da, Nan Z. (2019). [The Computational Case against Computational Literary Studies](http://jonathanstray.com/papers/Computational-Literary-Studies.pdf), dans : *Critical Inquiry* 45, p. 601–639 ;
