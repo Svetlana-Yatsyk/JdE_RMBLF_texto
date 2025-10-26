@@ -91,9 +91,7 @@ La lemmatisation est un processus linguistique qui consiste à **ramener un mot 
 ...
 
 ---
-# Lemmatisation
-
-# Quelques outils en ligne
+# Lemmatisation : quelques outils en ligne
 <br>
 
 ## UDPipe
@@ -104,6 +102,11 @@ https://lindat.mff.cuni.cz/services/udpipe/
 
 ## Deucalion
 https://dh.chartes.psl.eu/deucalion/latin
+
+---
+# Lemmatisation : mise en pratique
+
+[Notebook](https://colab.research.google.com/github/Svetlana-Yatsyk/JdE_RMBLF_texto/blob/main/notebooks/lemmatisation.ipynb)
 
 ---
 # Qu’est-ce qu’un corpus ?
