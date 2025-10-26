@@ -8,6 +8,7 @@ Projet HORAE
 ---
 # Aujourd’hui, nous allons :
 <br>
+
 - Voir comment aborder un texte par des méthodes quantitatives ;
 - Parler de la constitution d’un corpus de manière à rendre votre étude représentative ;
 - Apprendre à préparer les textes pour l’analyse ;
@@ -16,14 +17,16 @@ Projet HORAE
 ---
 # La textométrie 
 <br>
-1949, Roberto Busa, «Index Thomisticus». 179 œuvres de Thomas d’Aquin >10 millions de mots lemmatisés.
-1960s, Charles Muller, Corneille.
-1973, Jean-Paul Benzécri, analyse factorielle des correspondances.
-1970s - nj, Étienne Brunet, pionnier de la statistique textuelle française, concepteur du logiciel Hyperbase. 
+
+- 1949, Roberto Busa, «Index Thomisticus». 179 œuvres de Thomas d’Aquin >10 millions de mots lemmatisés.
+- 1960s, Charles Muller, Corneille.
+- 1973, Jean-Paul Benzécri, analyse factorielle des correspondances.
+- 1970s - nj, Étienne Brunet, pionnier de la statistique textuelle française, concepteur du logiciel Hyperbase. 
 
 ---
 # Questions pour l’analyse statistique :
 <br>
+
 - Quels mots apparaissent particulièrement souvent dans certain texte ou corpus ?
 - La fréquence d’un mot donné varie-t-elle d’un texte à l’autre, ou d’une période à l’autre ?
 - Le contexte dans lequel ce mot est employé change-t-il ? Quels sont ses collocations et ses corrélats ?
@@ -33,22 +36,28 @@ Projet HORAE
 ---
 # Vulgata Clementina
 <br>
+
 https://github.com/Svetlana-Yatsyk/JdE_RMBLF_texto
 <br>
+
 ![](data/img/01.download.gif)
 
 ---
 # Voyant Tools
 <br>
+
 https://voyant-tools.org/
 <br>
+
 Pour l’installation locale, suivez [ces consignes](https://github.com/sgsinclair/VoyantServer/wiki/VoyantServer-Desktop).
 <br>
+
 ![](data/img/02.load_to_voyant.gif)
 
 ---
 # Types et tokens :  définitions
 <br>
+
 Les _tokens_ sont des instances individuelles de mots.
 Les _types_ sont les mots uniques.
 
