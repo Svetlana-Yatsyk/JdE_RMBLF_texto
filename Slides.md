@@ -47,7 +47,7 @@ Pour l’installation locale, suivez [ces consignes](https://github.com/sgsincla
 ![](data/img/02.load_to_voyant.gif)
 
 ---
-# Définition des types et des tokens
+# Types et tokens :  définitions
 <br><br><br>
 Les _tokens_ sont des instances individuelles de mots.
 Les _types_ sont les mots uniques.
@@ -59,24 +59,57 @@ $$
 $$
 
 ---
+# Qu’est-ce qu’une lemme ?
+
+Une lemme est la _forme canonique_, de base, ou de dictionnaire du mot.
+	 	 	 	
+La lemmatisation est un processus linguistique qui consiste à **ramener un mot à sa forme de base**. 
+
+---
+# Pourquoi la lemmatisation est-elle nécessaire ?
+
+- Réduction de la dimensionnalité ;
+- Facilitation de l'apprentissage automatique ;
+- Analyse sémantique plus précise ;
+- Universalisation du traitement de texte entre les langues.
+
+---
+# Pourquoi l'étiquetage morpho-syntaxique est-il nécessaire ?
+
+- On ne badine pas avec une badine.
+- Ma soeur Rose arrose ma rose rose.
+- Une dame dame le café moulu.
+...
+
+---
 # Lemmatisation
 
 # Quelques outils en ligne
 <br><br><br>
-## [UDPipe](https://lindat.mff.cuni.cz/services/udpipe/)
-.
+## UDPipe
+https://lindat.mff.cuni.cz/services/udpipe/
+
 <br><br><br>
-## [Deucalion](https://dh.chartes.psl.eu/deucalion/latin)
+## Deucalion
+https://dh.chartes.psl.eu/deucalion/latin
 
 ---
-# Définition d’un corpus
+# Qu’est-ce qu’un corpus ?
 <br><br><br>
 Un corpus est un ensemble structuré de textes collectés selon des critères précis, pour servir de base à des études linguistiques, lexicographiques ou pour le traitement automatique des langues.
 
 ---
 # Critères de constitution
 <br><br><br>
-*Représentativité* : le corpus doit refléter fidèlement l’usage du domaine spécifique qu’il prétend représenter;
-*Annotation* : selon les objectifs de recherche, le corpus peut être annoté pour inclure des informations supplémentaires (catégories grammaticales, structures syntaxiques, etc);
-*Homogénéité et consistance interne* : les éléments du corpus doivent suivre les mêmes principes d’annotation, et donc être enrichis de la même densité d’information;
-*Taille* : la taille du corpus doit être suffisante pour permettre une analyse statistique fiable des phénomènes étudiés.
+- *Représentativité* : le corpus doit refléter fidèlement l’usage du domaine spécifique qu’il prétend représenter;
+- *Annotation* : selon les objectifs de recherche, le corpus peut être annoté pour inclure des informations supplémentaires (catégories grammaticales, structures syntaxiques, etc);
+- *Homogénéité et consistance interne* : les éléments du corpus doivent suivre les mêmes principes d’annotation, et donc être enrichis de la même densité d’information;
+- *Taille* : la taille du corpus doit être suffisante pour permettre une analyse statistique fiable des phénomènes étudiés.
+
+---
+# Pour aller plus loin
+<br><br><br>
+- [Introduction to Voyant Tools for Text Analysis](https://youtu.be/4jCGLmbLFT0) (en anglais) ;
+- [Détecter la réutilisation de texte avec Passim](https://programminghistorian.org/fr/lecons/detecter-la-reutilisation-de-texte-avec-passim) ;
+- Da, Nan Z. (2019). [The Computational Case against Computational Literary Studies](http://jonathanstray.com/papers/Computational-Literary-Studies.pdf), dans : *Critical Inquiry* 45, p. 601–639 ;
+- Pincemin, Bénédicte (2020). [La textométrie en question](https://shs.hal.science/halshs-02902088v1), dans : *Le Français Moderne - Revue de linguistique Française*, Linguistique et traitements quantitatifs, 88 (1), p. 26–43.
