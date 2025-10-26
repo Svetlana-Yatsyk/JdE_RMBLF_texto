@@ -21,7 +21,7 @@ Projet HORAE
 1970s - nj, Étienne Brunet, pionnier de la statistique textuelle française, concepteur du logiciel Hyperbase. 
 
 ---
-# Grâce à l’analyse quantitative des textes, on peut répondre à des questions telles que :
+# Questions pour l’analyse statistique :
 - Quels mots apparaissent particulièrement souvent dans certain texte ou corpus ?
 - La fréquence d’un mot donné varie-t-elle d’un texte à l’autre, ou d’une période à l’autre ?
 - Le contexte dans lequel ce mot est employé change-t-il ? Quels sont ses collocations et ses corrélats ?
@@ -31,6 +31,7 @@ Projet HORAE
 ---
 # Vulgata Clementina
 https://github.com/Svetlana-Yatsyk/JdE_RMBLF_texto
+</br>
 ![](data/img/01.download.gif)
 
 ---
