@@ -7,7 +7,7 @@ Projet HORAE
 
 ---
 # Aujourd’hui, nous allons :
-<br><br><br>
+<br>
 - Voir comment aborder un texte par des méthodes quantitatives ;
 - Parler de la constitution d’un corpus de manière à rendre votre étude représentative ;
 - Apprendre à préparer les textes pour l’analyse ;
@@ -15,7 +15,7 @@ Projet HORAE
 
 ---
 # La textométrie 
-<br><br><br>
+<br>
 1949, Roberto Busa, «Index Thomisticus». 179 œuvres de Thomas d’Aquin >10 millions de mots lemmatisés.
 1960s, Charles Muller, Corneille.
 1973, Jean-Paul Benzécri, analyse factorielle des correspondances.
@@ -23,7 +23,7 @@ Projet HORAE
 
 ---
 # Questions pour l’analyse statistique :
-<br><br><br>
+<br>
 - Quels mots apparaissent particulièrement souvent dans certain texte ou corpus ?
 - La fréquence d’un mot donné varie-t-elle d’un texte à l’autre, ou d’une période à l’autre ?
 - Le contexte dans lequel ce mot est employé change-t-il ? Quels sont ses collocations et ses corrélats ?
@@ -32,23 +32,23 @@ Projet HORAE
 
 ---
 # Vulgata Clementina
-<br><br><br>
+<br>
 https://github.com/Svetlana-Yatsyk/JdE_RMBLF_texto
-<br><br><br>
+<br>
 ![](data/img/01.download.gif)
 
 ---
 # Voyant Tools
-<br><br><br>
+<br>
 https://voyant-tools.org/
-<br><br><br>
+<br>
 Pour l’installation locale, suivez [ces consignes](https://github.com/sgsinclair/VoyantServer/wiki/VoyantServer-Desktop).
-<br><br><br>
+<br>
 ![](data/img/02.load_to_voyant.gif)
 
 ---
 # Types et tokens :  définitions
-<br><br><br>
+<br>
 Les _tokens_ sont des instances individuelles de mots.
 Les _types_ sont les mots uniques.
 
@@ -85,22 +85,22 @@ La lemmatisation est un processus linguistique qui consiste à **ramener un mot 
 # Lemmatisation
 
 # Quelques outils en ligne
-<br><br><br>
+<br>
 ## UDPipe
 https://lindat.mff.cuni.cz/services/udpipe/
 
-<br><br><br>
+<br>
 ## Deucalion
 https://dh.chartes.psl.eu/deucalion/latin
 
 ---
 # Qu’est-ce qu’un corpus ?
-<br><br><br>
+<br>
 Un corpus est un ensemble structuré de textes collectés selon des critères précis, pour servir de base à des études linguistiques, lexicographiques ou pour le traitement automatique des langues.
 
 ---
 # Critères de constitution
-<br><br><br>
+<br>
 - *Représentativité* : le corpus doit refléter fidèlement l’usage du domaine spécifique qu’il prétend représenter;
 - *Annotation* : selon les objectifs de recherche, le corpus peut être annoté pour inclure des informations supplémentaires (catégories grammaticales, structures syntaxiques, etc);
 - *Homogénéité et consistance interne* : les éléments du corpus doivent suivre les mêmes principes d’annotation, et donc être enrichis de la même densité d’information;
@@ -108,7 +108,7 @@ Un corpus est un ensemble structuré de textes collectés selon des critères pr
 
 ---
 # Pour aller plus loin
-<br><br><br>
+<br>
 - [Introduction to Voyant Tools for Text Analysis](https://youtu.be/4jCGLmbLFT0) (en anglais) ;
 - [Détecter la réutilisation de texte avec Passim](https://programminghistorian.org/fr/lecons/detecter-la-reutilisation-de-texte-avec-passim) ;
 - Da, Nan Z. (2019). [The Computational Case against Computational Literary Studies](http://jonathanstray.com/papers/Computational-Literary-Studies.pdf), dans : *Critical Inquiry* 45, p. 601–639 ;
